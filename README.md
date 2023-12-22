@@ -1,4 +1,4 @@
-#Spherical Parallel Manipulator (SPM) Inverse Kinematics Solver
+# Spherical Parallel Manipulator (SPM) Inverse Kinematics Solver
 
 Overview
 This project aims to implement an inverse kinematics solver for a Spherical Parallel Manipulator (SPM) based on two research papers:
