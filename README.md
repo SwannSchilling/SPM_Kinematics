@@ -13,3 +13,7 @@ This paper introduces an alternative approach for a robotic hand with a parallel
 
 Current Status
 The current state of the project involves attempting to compute the inverse kinematics of the SPM using the method outlined in the first paper. However, the results are not as expected, and further investigation is required.
+
+A very detailed paper that seems to provide detailed information on how to solve the kinematics can be found here
+
+https://sites.google.com/view/steinerengineering/
